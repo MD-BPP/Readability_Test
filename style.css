@@ -61,6 +61,14 @@ midgrey {
     background-size: cover;
 }
 
+.darkerlightgrey {
+	background-color: #f3f3f3;
+}
+
+.mediumlightgrey {
+	background-color: #E8E6E6;
+}
+
 
 
 .descriptor {
